@@ -140,5 +140,5 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/adamhammawa) / [Twitter](https://twitter.com/adermsani) / [Email](adamsani2020@gmail.com) 
+Adam Sani - [Github](https://github.com/adamhammawa) / [Twitter](https://twitter.com/adermsani) / [Email](adamsani2020@gmail.com) 
 Perpetua Ona - [Github](https://github.com/perpetua-ona) / [Email](onaperpetua@gmail.com)
